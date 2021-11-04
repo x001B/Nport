@@ -22,3 +22,8 @@ Hit the green play symbol that says "ETF" next to it at the top. This will start
 
 ### Step 5
 Find the output file on your desktop under "ETF-Reports" (the program will tell you where to look once it's done in case you aren't sure).
+
+# Further instructions and understanding
+Here: https://old.reddit.com/r/DDintoGME/comments/prmxj9/all_etf_holding_data_in_one_excel_workbook_the/
+
+Latest GameStop excel workbook (ran November 3rd ~9:50 PM) is in the main directory.
